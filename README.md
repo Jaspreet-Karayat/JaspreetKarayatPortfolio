@@ -7,22 +7,22 @@ Welcome to my Web Development Portfolio! This repository showcases my skills and
 ### 1. **React.js**
 - I am learning React.js to build dynamic, single-page applications. React helps me manage the content and UI efficiently, making development faster and more modular.
 
-### 1. **Tailwind CSS**
+### 2. **Tailwind CSS**
 - I use Tailwind CSS to create custom, responsive designs with utility-first classes, providing flexibility and consistency in styling my applications.
 
-### 1. **Bootstrap**
+### 3. **Bootstrap**
 - I use Bootstrap to quickly build responsive websites with pre-designed components like buttons, navigation bars, and forms, ensuring a polished UI with minimal effort.
 
-### 1. **Redux Toolkit**
+### 4. **Redux Toolkit**
 - I am learning Redux Toolkit to simplify state management in my React applications, enabling me to handle complex state interactions more predictably and efficiently.
 
-### 1. **Node.js**
+### 5. **Node.js**
 - I use Node.js to build server-side applications, creating scalable and efficient backend services for my web projects.
 
-### 1. **Express.js**
+### 6. **Express.js**
 - I use Express.js, a minimal and flexible Node.js framework, to design and implement RESTful APIs and server-side logic.
 
-### 1. **MongoDB**
+### 7. **MongoDB**
 - I use MongoDB, a NoSQL database, to store and manage data in a flexible, document-oriented format, making it ideal for modern web applications.
 
 
