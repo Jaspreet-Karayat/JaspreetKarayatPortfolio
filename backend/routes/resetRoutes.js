@@ -38,7 +38,7 @@ const sendResetPasswordEmail = (user, token) => {
         html: `
       <p>Hello,</p>
       <p>We received a request to reset your password. Click the link below to reset it:</p>
-      <a href=http://localhost:3000/resetPassword/${user._id}/${token}>Reset Password</a>
+ <a href=https://jaspreet-karayat-portfolio.vercel.app/${user._id}/${token}>Reset Password</a>
       <p>If you did not request this, please ignore this email.</p>
     `,
     };
