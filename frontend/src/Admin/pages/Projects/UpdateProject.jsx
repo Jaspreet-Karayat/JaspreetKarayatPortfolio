@@ -84,7 +84,8 @@ const UpdateProject = () => {
 
         try {
             const token = JSON.parse(localStorage.getItem('token'));
-            const response = await axios.put(`http://localhost:3030/api/projects/${id}`, { title, description, link, }, {
+            const API = 'https://jaspreetkarayatportfolio-backend.onrender.com';
+            const response = await axios.put(`${API}/api/projects/${id}`, { title, description, link, }, {
                 headers: {
                     'Content-Type': 'application/json',
                     authorization: token,
