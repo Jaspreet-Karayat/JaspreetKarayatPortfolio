@@ -77,7 +77,7 @@ router.post('/contactEmail', async (req, res) => {
               <h3>${email}</h3>
             </div>
             <div class="email-body">
-              <h5>${message}</h5>
+              <h3>${message}</h3>
               <p>Best regards, <br>${name}</p>
             </div>
             <div class="email-footer">
